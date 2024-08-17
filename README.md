@@ -1,4 +1,4 @@
-# Calculator-
+# Simple-Calculator-
 This project is a Simple Calculator built using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to be responsive and easy to use on both desktop and mobile devices.
 Simple Calculator
 Overview
